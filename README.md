@@ -1,5 +1,5 @@
 # Mango
-Simple flight searching tool bootstraped with [create-react-app](https://github.com/facebook/create-react-app).
+Simple flight searching tool bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
 
 ## To improve
 - loading indication (spinner) for async actions
