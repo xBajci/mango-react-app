@@ -5,6 +5,7 @@ Simple flight searching tool bootstrapped with [create-react-app](https://github
 - loading indication (spinner) for async actions
 - disable next/prev buttons when zero offset/max offset is reached
 - disable search button when searching is already in progress
+- clear flightSearch cache in reasonable interval
 
 ## Prerequisites
 
